@@ -2,6 +2,7 @@
 
 
     declare const enum RemoteButton {
+    //% block="Power"
     Power = 0x45,
     //% block="Menu"
     Menu = 0x47,

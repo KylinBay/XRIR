@@ -14,7 +14,7 @@
 
 /**
  * Constructor.
- *
+ * function: 初始化红外接收引脚
  * @param rxpin Pin for receive IR signal.
  */
 ReceiverIR::ReceiverIR(PinName rxpin) : evt(rxpin) {
